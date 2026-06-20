@@ -1,6 +1,6 @@
 # b2bflow Challenge — Python + Supabase + Z-API
 
-Script em Python que lê contatos cadastrados no Supabase e envia, via Z-API, a mensagem personalizada "Olá, <nome_contato> tudo bem com você?" para cada um.
+Este projeto consiste em um script Python que lê contatos cadastrados no Supabase e envia, via Z-API, a mensagem personalizada "Olá, <nome_contato> tudo bem com você?" para cada contato encontrado.
 
 ## Tecnologias utilizadas
 
