@@ -51,7 +51,7 @@ python -m venv venv
 venv\Scripts\activate
 
 3. Instale as dependências:
-pip install supabase requests python-dotenv
+pip install -r requirements.txt
 
 4. Configure o arquivo `.env` (veja seção acima).
 
